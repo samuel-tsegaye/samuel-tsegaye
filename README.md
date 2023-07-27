@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on  **Transport Management System**
 
-- 🌱 I’m currently learning **Python,OpenCV**
+- 🌱 I’m currently learning **Python,Odoo**
 
 - 📝 I regularly write articles on [https://samueltsegaye.blogspot.com/](https://samueltsegaye.blogspot.com/)
 
